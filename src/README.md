@@ -4,7 +4,8 @@
 * [react-scramble-text](https://www.npmjs.com/package/react-scramble-text)
 
 <details>
-<summary>Typical React</summary>
+<summary>Typical React 🥲</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
