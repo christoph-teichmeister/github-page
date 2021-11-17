@@ -20,9 +20,7 @@
     text-align: end;
 
     /*Reset border styles*/
-    border-width: unset;
-    border-style: none;
-    border-color: unset;
+    border: unset;
     border-image: none;
 }
 
