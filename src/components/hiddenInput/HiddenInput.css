@@ -1,0 +1,41 @@
+.align-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.margin-left{
+    margin-left: 0.3rem;
+}
+
+.hidden-input-font {
+    color: var(--font-color-nearly-background);
+}
+
+.hide-this-input {
+    color: var(--font-color-nearly-background);
+    background: transparent;
+    caret-color: transparent;
+
+    text-align: end;
+
+    /*Reset border styles*/
+    border-width: unset;
+    border-style: none;
+    border-color: unset;
+    border-image: none;
+}
+
+.hide-this-input:focus-visible {
+    outline: unset;
+}
+
+.blink {
+    animation: blinker 1s step-start infinite;
+}
+
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}

@@ -1,0 +1,10 @@
+:root {
+    --min-height-100vh: 100vh;
+    --font-color-white: white;
+    --font-color-nearly-background: #4d4d54;
+}
+
+.App {
+    background-color: #29292c;
+    padding: 1rem;
+}

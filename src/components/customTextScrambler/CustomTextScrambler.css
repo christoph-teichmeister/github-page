@@ -1,0 +1,5 @@
+.text-scrambler-font {
+    /*Font color and size*/
+    font-size: calc(10px + 2vmin);
+    color: var(--font-color-white);
+}
